@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604560899 source:/home/thejas/manipal/ADS lab/student_admission/student.c
+	<stdint.h>
+	<stdio.h>
+	"student.h"
+	<assert.h>
+	<string.h>
+
+1604560233 /home/thejas/manipal/ADS lab/student_admission/student.h
+	<stdint.h>
+	"appconst.h"
+
+1604471664 /home/thejas/manipal/ADS lab/student_admission/appconst.h
+
+1604561699 source:/home/thejas/manipal/ADS lab/student_admission/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	"student.h"
+
