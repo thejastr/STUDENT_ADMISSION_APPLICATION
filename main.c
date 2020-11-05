@@ -23,8 +23,6 @@ int main()
                N0_OF_STUDENTS=N0_OF_STUDENTS+1;
                break;
         case 3:pg=allot(s,pg);
-               printf("/n%d",s[0].regnumber);
-               printf("/n%d",pg.filled_bda_seats);
                break;
         case 4:printf("Total number of applications submitted :%d",N0_OF_STUDENTS);
                break;
